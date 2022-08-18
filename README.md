@@ -12,7 +12,7 @@ PlanMyTrip is a top travel technology company that specializes in the hotel and 
 
 ## Results
 
-![WeatherPy_vacation_map](https://user-images.githubusercontent.com/108373151/184550331-156b90fe-1b99-4b1c-aeb3-cfe5c20cc639.png)
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/108373151/185271387-49a100ab-cc4f-4130-803b-6de8db13d6da.png)
 
 This map uses the criteria entered by the user to plot travel destinations. Each popup marker is clickable and shows city name, country code, ideal hotel name, and the current weather description with the maximum temperature. 
 
